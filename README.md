@@ -1,6 +1,6 @@
 # CV Research Paper Archive
 
-![logo](https://https://github.com/ChenZhouUC/CV_ResearchPaperArchive/tree/master/assets/CV_concept.jpg)
+![logo](https://github.com/ChenZhouUC/CV_ResearchPaperArchive/tree/master/assets/CV_concept.jpg)
 
 ### Introduction
 
