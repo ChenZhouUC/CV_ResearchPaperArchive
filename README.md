@@ -1,6 +1,8 @@
-# CV Research Paper Archive
+# <img src="https://github.com/ChenZhouUC/CV_ResearchPaperArchive/blob/master/assets/cv.png" height="25" alt="logo"/> CV Research Paper Archive
 
-![cv](https://github.com/ChenZhouUC/CV_ResearchPaperArchive/blob/master/assets/CV_concept.png)
+<div align=center>
+<img src="https://github.com/ChenZhouUC/CV_ResearchPaperArchive/blob/master/assets/CV_concept.png" alt="concept" width="600" align="center"/>
+</div>
 
 ### Introduction
 
